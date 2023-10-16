@@ -1,0 +1,14 @@
+.main-div{
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(212, 170, 170);
+    width: 100%;
+    justify-content: space-around;
+    padding: 2%;
+}
+.home-div{
+    margin-top: 3%;
+    padding: 3%;
+    
+}

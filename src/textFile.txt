@@ -1,0 +1,5 @@
+assigned on 2nd of Oct        5 btns-----/home ---- home page                                                                                        Done on 3rd of Oct
+assigned on 2nd of Oct        convert akshay to reverse for that make 2 divs and one btn for changing color make 5 selection dropdown select tag     done on 4th of oct
+assigned on 2nd of Oct        5 alerts with timeout of 2sec                                                                                          done on 4th oct
+assigned on 2nd of Oct        create input form/box if user dindnt fill blank places then give error if fills everthing give sussess message.        done on 4th oct
+assigned on 2nd of Oct        take input if len is more than 5 then give success and if it give less than 5 then give error
